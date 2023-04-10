@@ -1,0 +1,18 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "INtroduction to node server",
+  "main": "introToNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/regiem14/Intro-To-Node.git)"
+  },
+  "author": "\"Regie Marzan\"",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
